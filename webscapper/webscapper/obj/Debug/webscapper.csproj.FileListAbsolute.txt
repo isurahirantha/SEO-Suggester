@@ -1,0 +1,13 @@
+c:\users\isura\documents\visual studio 2012\Projects\webscapper\webscapper\bin\Debug\webscapper.exe.config
+c:\users\isura\documents\visual studio 2012\Projects\webscapper\webscapper\bin\Debug\webscapper.exe
+c:\users\isura\documents\visual studio 2012\Projects\webscapper\webscapper\bin\Debug\webscapper.pdb
+c:\users\isura\documents\visual studio 2012\Projects\webscapper\webscapper\obj\Debug\webscapper.csprojResolveAssemblyReference.cache
+c:\users\isura\documents\visual studio 2012\Projects\webscapper\webscapper\obj\Debug\webscapper.Properties.Resources.resources
+c:\users\isura\documents\visual studio 2012\Projects\webscapper\webscapper\obj\Debug\webscapper.csproj.GenerateResource.Cache
+c:\users\isura\documents\visual studio 2012\Projects\webscapper\webscapper\obj\Debug\webscapper.exe
+c:\users\isura\documents\visual studio 2012\Projects\webscapper\webscapper\obj\Debug\webscapper.pdb
+c:\users\isura\documents\visual studio 2012\Projects\webscapper\webscapper\obj\Debug\webscapper.WebScrapper.resources
+C:\Users\Isura\documents\visual studio 2012\Projects\webscapper\webscapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Isura\documents\visual studio 2012\Projects\webscapper\webscapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Isura\documents\visual studio 2012\Projects\webscapper\webscapper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Isura\documents\visual studio 2012\Projects\webscapper\webscapper\bin\Debug\Bunifu_UI_v1.52.dll
