@@ -1,7 +1,7 @@
 # SEO Suggester
 <p>HTML is the underlying code used to create web pages.</p>
 <p>Search engines can get website ranking clues based on some html elements.</p>
-<P>The tool provide On-the-page SEO solutions based on html tags.</p>
+<P>The tool provides 'On-the-page SEO' solutions based on html tags.</p>
 <h6>The Program look for below things to get the webpages in the top ranks in <i>Search Engine Results Pages</i>(SERPs)</h6>
 <pre>
 Head Tag.
